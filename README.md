@@ -8,17 +8,13 @@ The problem it solves is to see how much understanding of concepts we have. I wo
 I learned that building a website is a lot more intricate than it seems. From the previous project, I learned about semantic elements and I tried to implement those here. I learned and was primarily challenged cy Cascading Sheets Styles (CSS). Wow! truly challneging for me but it has given me a look into how we talk to our page and how our page responds to the commands given, how different elements make things easier or harder, and how it all comes together to make something out 0of nothing.
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+N/A
 
 ## Installation
 
 As of now, there is no big project to be installed. The webpage just had to be launched and that is it. In the future, there will be a project installation and I am yet to learn how that works.
+
+GitHub was used to publish/launch the website.
 
 ## Usage
 
@@ -53,3 +49,5 @@ N/A
 ---
 
 ## Website Link
+
+https://flgaitan.github.io/portfolio/
